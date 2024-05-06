@@ -99,7 +99,7 @@ nav a:hover {
 }
 
 .game_img {
-    background-image: url(/assets/Flicky_06.png);
+    background-image: url(Flicky_06.png);
     background-color: #000000d7;
     background-position: top center;
     background-repeat: no-repeat;
